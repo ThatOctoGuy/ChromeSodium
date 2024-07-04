@@ -1,0 +1,4 @@
+#Sat Jun 15 18:00:54 MDT 2024
+LIGHT_SHAFT=false
+shadowDistance=128.0
+shadowMapResolution=512
